@@ -3,6 +3,7 @@
 
 <br>
 
+![Aragon Logo](https://avatars0.githubusercontent.com/u/24612534?s=200&v=4)
 ![AraCred Logo](https://avatars3.githubusercontent.com/u/63201387?s=200&v=4)
 
 # AraCred
