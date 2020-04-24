@@ -7,6 +7,8 @@
 
 # AraCred
 
+This AraCred instance is connected to https://mainnet.aragon.org/#/arahelptesting/
+
 Please see the [AraCred Deployment page](https://aracred.github.io/website/docs/deploymentOverview/) for info on how to setup and run AraCred.
 
 > Note! AraCred does **not** run on the master branch of SourceCred. It runs on the [SourceCred Discord branch](https://github.com/sourcecred/sourcecred/tree/discord), which at the time of writing, is experimental. As such, expect things to break early and often. 
