@@ -4,9 +4,9 @@
     "version": "0.4.0"
   },
   {
-    "id": "@AraCred",
+    "id": "@AraHelp",
     "discord": {
-      "guildId": "695344751490236486",
+      "guildId": "672466989217873929",
       "reactionWeights": {
         "👍": 1,
         "🔥": 1,
@@ -162,54 +162,6 @@
       }
     ],
     "repoIds": [
-      {
-        "name": "AraCred",
-        "owner": "aracred"
-      },
-      {
-        "name": "website",
-        "owner": "aracred"
-      },
-      {
-        "name": "bot",
-        "owner": "aracred"
-      },
-      {
-        "name": "onboarding",
-        "owner": "aracred"
-      },
-      {
-        "name": "TheSource",
-        "owner": "aracred"
-      },
-      {
-        "name": "governance",
-        "owner": "aracred"
-      },
-      {
-        "name": "comms",
-        "owner": "aracred"
-      },
-      {
-        "name": "leaderboard",
-        "owner": "aracred"
-      },
-      {
-        "name": "aracred-cli",
-        "owner": "aracred"
-      },
-      {
-        "name": "aracred-init",
-        "owner": "aracred"
-      },
-      {
-        "name": "aracred-template",
-        "owner": "aracred"
-      },
-      {
-        "name": "ideas",
-        "owner": "aracred"
-      }
     ]
   }
 ]
