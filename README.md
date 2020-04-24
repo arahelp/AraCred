@@ -7,7 +7,9 @@
 
 # AraCred
 
-This AraCred instance is connected to https://mainnet.aragon.org/#/arahelptesting/
+This AraCred instance is connected to 
+- https://mainnet.aragon.org/#/arahelptesting/
+- Aragon Discord Support channel: https://discord.gg/NT5fNRp
 
 Please see the [AraCred Deployment page](https://aracred.github.io/website/docs/deploymentOverview/) for info on how to setup and run AraCred.
 
